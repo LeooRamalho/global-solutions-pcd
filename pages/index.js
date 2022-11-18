@@ -1,6 +1,6 @@
 import { Card, Container } from "react-bootstrap"
 import { Wrapper } from "@googlemaps/react-wrapper"
-import Map from "./components/map/"
+import Map from "./components/Map/"
 
 const renderMaps = (status) => {
   return <h1>{status}</h1>
