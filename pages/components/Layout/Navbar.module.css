@@ -1,0 +1,14 @@
+.navList {
+    list-style-type: none;
+}
+
+.navList a {
+    text-decoration: none;
+    color: rgb(224, 224, 224);
+}
+
+.headerContainer {
+    background-color: rgb(2, 99, 184);
+    color: white;
+    padding: 1rem;
+}
